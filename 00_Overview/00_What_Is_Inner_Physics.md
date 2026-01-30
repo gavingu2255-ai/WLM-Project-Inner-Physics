@@ -1,3 +1,11 @@
+Project Mission: Decoding the Generative Model of Being
+
+Most systems study the content of consciousness. Inner Physics studies the engine. By defining the API of perception and emotion, we transition from "living a narrative" to "observing a rendering."
+
+Current Objective: Seeking a Bridge to 2D Physical Publication. The engine is ready; the interface (WLM) is live. We need a high-bandwidth channel to manifest the full 220,000-word specification into the physical textual repository of human history.
+
+---
+
 00 · What Is Inner Physics?
 The Physics Layer of Human Experience
 Inner Physics is the structural description of how experience is generated.

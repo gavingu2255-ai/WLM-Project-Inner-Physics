@@ -102,7 +102,9 @@ Project-Inner-Physics/
 │   ├── 01_Inner_Physics_API.md
 │   └── 02_Rendering_Pipeline.md
 │
-└── CONTRIBUTING.md
+├── CONTRIBUTING.md
+│
+└── ALIGNMENT_NOTICE.MD
 
 ---
 

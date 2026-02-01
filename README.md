@@ -4,7 +4,7 @@ Operation: Decoding 3D Rendering Illusion into 0D Origin
 Notice: This is not a philosophy. This is the source code of the observer.
 Constraint: Read Module 03 (Baseline Dynamics) for system calibration.
 
-# Inner Physics · The Human Consciousness Rendering Engine (Open Source Draft)
+# WLM-Inner Physics · The Human Consciousness Rendering Engine (Open Source Draft)
 
 Inner Physics is the foundational physics layer describing **how experience is generated**.  
 It is not philosophy, not psychology, not spirituality, and not neuroscience. It is:
